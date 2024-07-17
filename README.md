@@ -1,3 +1,5 @@
 # tetris-game
 
-<img src="https://github.com/ashoollakhani/tetris-game/blob/main/img/tetris-gif.gif" width=100% height=100%>
+<div align="center">
+  <img src="https://github.com/ashoollakhani/tetris-game/blob/main/img/tetris-gif.gif" width=30% height=30%>
+</div>
