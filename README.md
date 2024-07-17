@@ -1,6 +1,6 @@
 # 🎮 Tetris Game with Pygame 🎮
 
-Welcome to the Tetris Game built with Pygame! This classic game is implemented using Python and Pygame, featuring a scoreboard and properly fitted "You Lost" text.
+This classic game is implemented using Python and Pygame. The objective of Tetris is to score as many points as possible by clearing horizontal lines of blocks. The player must strategically place the falling shapes to fill entire rows, which will then disappear, making more room for new shapes.
 
 <div align="center">
   <img src="https://github.com/ashoollakhani/tetris-game/blob/main/img/tetris-gif.gif" width=30% height=30%>
@@ -39,5 +39,9 @@ Welcome to the Tetris Game built with Pygame! This classic game is implemented u
     python main.py
     ```
 
+## 🎮 How to Play 🎮
 
-
+- ⬅️ Use the left arrow key to move the piece left.
+- ➡️ Use the right arrow key to move the piece right.
+- ⬇️ Use the down arrow key to speed up the piece's descent.
+- ⬆️ Use the up arrow key to rotate the piece.
